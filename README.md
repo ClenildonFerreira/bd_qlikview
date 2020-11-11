@@ -1,2 +1,2 @@
 # bd_qlikview
-Ba
+Base de dados para explora as funcionalidades do qlikview em servidor local.
