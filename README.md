@@ -1,0 +1,2 @@
+# bd_qlikview
+Ba
